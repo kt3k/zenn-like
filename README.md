@@ -4,8 +4,7 @@ Classless css framework which simulates [zenn.dev][]'s UI. Forked from [sakura.c
 
 # Usage
 
-```
-```
+See [the source code](https://github.com/kt3k/zenn-like/blob/main/index.html) of demo page.
 
 # License
 
