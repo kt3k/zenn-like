@@ -1,0 +1,5 @@
+version: 0.1.0
+files:
+  README.md: v%.%.%
+  package.json: '"version": "%.%.%"'
+  zenn-like.css: v%.%.%
