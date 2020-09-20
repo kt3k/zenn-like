@@ -1,4 +1,4 @@
-# zenn-like
+# zenn-like WIP
 
 Classless css framework which simulates [zenn.dev][]'s UI. Forked from [sakura.css][].
 
