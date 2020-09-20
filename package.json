@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "fmt": "prettier --write zenn-like.css"
+  },
+  "devDependencies": {
+    "prettier": "^2.1.2"
+  }
+}
