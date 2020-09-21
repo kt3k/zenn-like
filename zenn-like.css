@@ -25,6 +25,9 @@
 html {
   font-size: 62.5%;
   font-family: var(--font-base);
+
+  /* This covers the bottom of short page */
+  background-color: var(--c-bg-base);
 }
 
 body {
